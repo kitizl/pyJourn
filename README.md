@@ -16,4 +16,8 @@ This is a python journal program that allows you to type in your journal directl
 5. If the folder becomes too cluttered with text files, simply run `python3 organize.py` [`python organize.py` on windows] and
 your posts will be segregated by year and month.
 
+## Bonus Usage
+1. If you have your entry stored in a file (preferably text file), you could do `python3 journ.py < [input-filename]` and it should work just the same.
+
+
 Further functionality will be added in the future if I find the time and interest, really.
